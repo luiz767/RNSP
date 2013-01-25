@@ -89,7 +89,7 @@ public class Wisard {
 	}
 
 	/**
-	 * Return the number of discriminators there is in the WiSARD
+	 * Return the number of discriminators that there are in the WiSARD
 	 * 
 	 * @return
 	 */
